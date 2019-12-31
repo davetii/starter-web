@@ -1,5 +1,5 @@
 # Starter Web Repo
-This repository is for practicing git commands and interacting with github.com. Adding a line for rebase exaMple
+This repository is for practicing git commands and interacting with github.com. Adding a line for rebase example. More chnages on feature branch for rebasing example
 
 ## Purpose
 Sample website with demos for files
