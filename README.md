@@ -13,6 +13,9 @@ This is the staging section
 ## Deployment
 This is the deployment section
 
+## How to contribute
+This is details pertaining to how to contribute to this
+
 ## Copyright
 Adding some text for the copyright section
 
