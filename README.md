@@ -17,7 +17,7 @@ This is the deployment section
 This is details pertaining to how to contribute to this
 
 ## Copyright
-Adding some text for the copyright section
+All rights reserved
 
 
 
