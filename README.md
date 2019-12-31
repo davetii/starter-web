@@ -13,5 +13,8 @@ This is the staging section
 ## Deployment
 This is the deployment section
 
+## Copyright
+Adding some text for the copyright section
+
 
 
