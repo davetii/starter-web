@@ -7,4 +7,5 @@ This repository is for practicing git commands and interacting with github.com
 Sample website with demos for files
 
 ## Deployment
-## Purpose
+This is the deployment section
+
